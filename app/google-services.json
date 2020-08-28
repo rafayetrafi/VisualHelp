@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047424257343",
+    "firebase_url": "https://textdetection-b04ef.firebaseio.com",
+    "project_id": "textdetection-b04ef",
+    "storage_bucket": "textdetection-b04ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047424257343:android:08fae7889b843500a4178a",
+        "android_client_info": {
+          "package_name": "com.rafayet.VisualHelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047424257343-rfikhonucv6topobi5qgv509hkcn57n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGYkZZPcOK5x0kMx0T4K0nmdQ2yHilQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047424257343-rfikhonucv6topobi5qgv509hkcn57n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
